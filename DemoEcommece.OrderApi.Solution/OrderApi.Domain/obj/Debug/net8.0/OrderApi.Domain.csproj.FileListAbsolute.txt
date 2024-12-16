@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\hp\Desktop\E_Commerce\DemoEcommece.OrderApi.Solution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

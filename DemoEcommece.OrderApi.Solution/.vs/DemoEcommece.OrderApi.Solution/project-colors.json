@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28ad42e3-6755-4501-8fca-d0d7d004239c": {
+      "ProjectGuid": "28ad42e3-6755-4501-8fca-d0d7d004239c",
+      "DisplayName": "OrderApi.Application",
+      "ColorIndex": 0
+    },
+    "cd9ab6dd-3c93-4ae4-bb6e-644bf6ce6d89": {
+      "ProjectGuid": "cd9ab6dd-3c93-4ae4-bb6e-644bf6ce6d89",
+      "DisplayName": "eCommerce.SharedLibrary",
+      "ColorIndex": 1
+    },
+    "e17562b2-e7ef-4aa2-a246-c3eedec13062": {
+      "ProjectGuid": "e17562b2-e7ef-4aa2-a246-c3eedec13062",
+      "DisplayName": "OrderApi.Presentation",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
