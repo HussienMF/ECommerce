@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.deps.json
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.runtimeconfig.json
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfo.cs
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\refint\eCommerce.SharedLibrary.dll
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.genruntimeconfig.cache
+C:\Users\hp\Desktop\E_Commerce\Demo_Ecommerce\eCommerce.SharedLibrary\obj\Debug\net8.0\ref\eCommerce.SharedLibrary.dll
