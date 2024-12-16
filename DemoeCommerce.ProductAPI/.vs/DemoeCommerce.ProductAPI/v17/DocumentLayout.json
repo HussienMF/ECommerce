@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA4CCCB-CF68-4405-91AB-9005E341A6FC}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\hp\\desktop\\e_commerce\\demoecommerce.productapi\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA4CCCB-CF68-4405-91AB-9005E341A6FC}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285947A-C163-4B9B-98C8-7B749FBA8A3B}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|c:\\users\\hp\\desktop\\e_commerce\\demoecommerce.productapi\\unittest.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285947A-C163-4B9B-98C8-7B749FBA8A3B}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|solutionrelative:unittest.productapi\\repositories\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9285947A-C163-4B9B-98C8-7B749FBA8A3B}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|c:\\users\\hp\\desktop\\e_commerce\\demoecommerce.productapi\\unittest.productapi\\controller\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9285947A-C163-4B9B-98C8-7B749FBA8A3B}|UnitTest.ProductApi\\UnitTest.ProductApi.csproj|solutionrelative:unittest.productapi\\controller\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\ProductApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\ProductApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T09:33:51.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "UnitTest.ProductApi\\Repositories\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAYwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:03:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\UnitTest.ProductApi\\Controller\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "UnitTest.ProductApi\\Controller\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\E_Commerce\\DemoeCommerce.ProductAPI\\UnitTest.ProductApi\\Controller\\ProductControllerTest.cs",
+              "RelativeToolTip": "UnitTest.ProductApi\\Controller\\ProductControllerTest.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAQwNoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:59:21.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
